@@ -1,0 +1,49 @@
+
+body{
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.navbar li a:hover{
+    color: blue;
+}
+
+.i-rigt:hover{
+    text-decoration: underline;
+    padding-bottom:3px ;
+}
+
+.active{
+    color: #000ff0;
+}
+
+.btn-circle.btn-xl {
+    width: 70px;
+    height: 70px;
+    padding: 10px 16px;
+    border-radius: 35px;
+    font-size: 24px;
+    line-height: 1.33;
+}
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+}
+.carousel-control-prev{
+    padding-right: 140px; 
+}
+.carousel-control-prev-icon{
+    background-color:rgb(12, 12, 11);
+}
+.carousel-control-next-icon{
+    background-color:rgb(12, 12, 11);
+}
+.carousel-control-next{
+    padding-left: 140px; 
+}
+  
